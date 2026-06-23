@@ -1,6 +1,6 @@
 # Dormitory_database
 
-В файле Dormitory_database.zip хранятся все запросы и backup Базы данных дляее запуска
+В файле Dormitory_database.zip хранятся все запросы и backup Базы данных для ее запуска
 Требования к запуску:
 - Установлен Postgresql и pgAdmin
 - Скачан zip-архив бд
